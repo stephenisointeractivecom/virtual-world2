@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<constellations>
+	<constellation id="wolf" color="0x00FF00">
+		<star tDelay="0" yPos="245.65" />
+		<star tDelay="0.17933790946216002" yPos="89.3" />
+		<star tDelay="0.22069684594665043" yPos="150.4" />
+		<star tDelay="0.4137631418889564" yPos="160.7" />
+		<star tDelay="0.4689373533756191" yPos="89.3" />
+		<star tDelay="0.4965679033799635" yPos="216.3" />
+		<star tDelay="0.5931010513511165" yPos="17.85" />
+		<star tDelay="0.7309931358067598" yPos="57.55" />
+		<star tDelay="0.7406377617516725" yPos="219.45" />
+		<star tDelay="0.81927187418542" yPos="146.45" />
+		<star tDelay="0.8648014597271699" yPos="116.3" />
+		<star tDelay="0.9434355721609174" yPos="1.949" />
+		<star tDelay="0.9930489182379008" yPos="54.4" />
+		<star tDelay="0.9958293509427403" yPos="298.85" />
+		<star tDelay="1" yPos="127.4" />
+	</constellation>
+	<constellation id="wolf" color="0x0000FF">
+		<star tDelay="0" yPos="245.65" />
+		<star tDelay="0.17933790946216002" yPos="89.3" />
+		<star tDelay="0.22069684594665043" yPos="150.4" />
+		<star tDelay="0.4137631418889564" yPos="160.7" />
+		<star tDelay="0.4689373533756191" yPos="89.3" />
+		<star tDelay="0.4965679033799635" yPos="216.3" />
+		<star tDelay="0.5931010513511165" yPos="17.85" />
+		<star tDelay="0.7309931358067598" yPos="57.55" />
+		<star tDelay="0.7406377617516725" yPos="219.45" />
+		<star tDelay="0.81927187418542" yPos="146.45" />
+		<star tDelay="0.8648014597271699" yPos="116.3" />
+		<star tDelay="0.9434355721609174" yPos="1.949" />
+		<star tDelay="0.9930489182379008" yPos="54.4" />
+		<star tDelay="0.9958293509427403" yPos="298.85" />
+		<star tDelay="1" yPos="127.4" />
+	</constellation>
+	<constellation id="wolf" color="0xFF0000">
+		<star tDelay="0" yPos="245.65" />
+		<star tDelay="0.17933790946216002" yPos="89.3" />
+		<star tDelay="0.22069684594665043" yPos="150.4" />
+		<star tDelay="0.4137631418889564" yPos="160.7" />
+		<star tDelay="0.4689373533756191" yPos="89.3" />
+		<star tDelay="0.4965679033799635" yPos="216.3" />
+		<star tDelay="0.5931010513511165" yPos="17.85" />
+		<star tDelay="0.7309931358067598" yPos="57.55" />
+		<star tDelay="0.7406377617516725" yPos="219.45" />
+		<star tDelay="0.81927187418542" yPos="146.45" />
+		<star tDelay="0.8648014597271699" yPos="116.3" />
+		<star tDelay="0.9434355721609174" yPos="1.949" />
+		<star tDelay="0.9930489182379008" yPos="54.4" />
+		<star tDelay="0.9958293509427403" yPos="298.85" />
+		<star tDelay="1" yPos="127.4" />
+	</constellation>
+</constellations> 
